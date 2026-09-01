@@ -573,7 +573,7 @@ Structural engineering tools and automation for practical bridge and structural 
 
 ## 📄 License
 
-This project can be released under the **MIT License**. Add the full `[![License: MIT]](LICENSE)` file to the repository before publishing under MIT.
+This project can be released under the **MIT License**. Add the full > 📄 **License:** [MIT License](LICENSE) file to the repository before publishing under MIT.
 
 ---
 
