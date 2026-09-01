@@ -1,6 +1,6 @@
 <div align="center">
   
-#Circular RCC Section Design & Analysis Tool
+# **Circular RCC Section Design & Analysis Tool**
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python)](https://www.python.org/)
 [![IS 456](https://img.shields.io/badge/Design%20Code-IS%20456%3A2000-orange)](#design-codes)
@@ -10,7 +10,6 @@
 
 </div>
 
----
 <div align="center">
 
 ### 🐍 Try It Online — No Installation Required!
@@ -23,7 +22,7 @@
 
 </div>
 
-> **A calculation-oriented Python tool for structural engineers to analyse circular reinforced-concrete (RCC) sections for axial load, uniaxial/biaxial bending, shear and serviceability checks.** <
+> **A calculation-oriented Python tool for structural engineers to analyse circular reinforced-concrete (RCC) sections for axial load, uniaxial/biaxial bending, shear and serviceability checks.** 
 
 ---
 
